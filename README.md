@@ -36,7 +36,7 @@ The project involves computing key metrics and creating visualizations to suppor
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/petra-lukic/data-analysis.git
+    git clone https://github.com/petra-lukic/data_analysis.git
     cd data-analysis
     ```
 
