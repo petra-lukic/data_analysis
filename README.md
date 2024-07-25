@@ -37,7 +37,7 @@ The project involves computing key metrics and creating visualizations to suppor
 
     ```bash
     git clone https://github.com/petra-lukic/data_analysis.git
-    cd data-analysis
+    cd data_analysis
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
