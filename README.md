@@ -6,8 +6,7 @@ This repository contains code for analyzing food waste data captured by KITRO de
 
 1. [Project Overview](#project-overview)
 2. [Setup Instructions](#setup-instructions)
-3. [Configuration](#configuration)
-4. [Usage](#usage)
+3. [Usage](#usage)
 
 ## Project Overview
 
